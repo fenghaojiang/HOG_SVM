@@ -1,0 +1,1841 @@
+Processing Image Name :crop001001.png
+trainIOU: 0.532258
+trainIOU: 0.776487
+Processing Image Name :crop001002.png
+Processing Image Name :crop001003.png
+trainIOU: 0.574995
+Processing Image Name :crop001004.png
+trainIOU: 0.592242
+Processing Image Name :crop001005.png
+Processing Image Name :crop001006.png
+trainIOU: 0.805082
+Processing Image Name :crop001007.png
+trainIOU: 0.615908
+trainIOU: 0.660119
+trainIOU: 0.551622
+Processing Image Name :crop001008.png
+trainIOU: 0.667625
+trainIOU: 0.792394
+Processing Image Name :crop001009.png
+trainIOU: 0.522906
+Processing Image Name :crop001010.png
+Processing Image Name :crop001011.png
+Processing Image Name :crop001012.png
+Processing Image Name :crop001013.png
+Processing Image Name :crop001014.png
+Processing Image Name :crop001015.png
+Processing Image Name :crop001016.png
+Processing Image Name :crop001017.png
+Processing Image Name :crop001018.png
+Processing Image Name :crop001019.png
+Processing Image Name :crop001020.png
+Processing Image Name :crop001021.png
+Processing Image Name :crop001022.png
+Processing Image Name :crop001023.png
+Processing Image Name :crop001024.png
+Processing Image Name :crop001025.png
+Processing Image Name :crop001026.png
+Processing Image Name :crop001027.png
+Processing Image Name :crop001028.png
+trainIOU: 0.723913
+Processing Image Name :crop001029.png
+Processing Image Name :crop001030.png
+Processing Image Name :crop001031.png
+Processing Image Name :crop001032.png
+Processing Image Name :crop001033.png
+Processing Image Name :crop001034.png
+Processing Image Name :crop001035.png
+Processing Image Name :crop001036.png
+Processing Image Name :crop001037.png
+trainIOU: 0.591631
+Processing Image Name :crop001038.png
+trainIOU: 0.70277
+trainIOU: 0.780556
+trainIOU: 0.630147
+Processing Image Name :crop001039.png
+trainIOU: 0.55067
+trainIOU: 0.557203
+Processing Image Name :crop001040.png
+Processing Image Name :crop001042.png
+Processing Image Name :crop001043.png
+Processing Image Name :crop001044.png
+trainIOU: 0.6
+Processing Image Name :crop001045.png
+trainIOU: 0.641791
+Processing Image Name :crop001046.png
+Processing Image Name :crop001047.png
+trainIOU: 0.615962
+Processing Image Name :crop001048.png
+Processing Image Name :crop001049.png
+Processing Image Name :crop001050.png
+trainIOU: 0.645276
+Processing Image Name :crop001051.png
+trainIOU: 0.654884
+Processing Image Name :crop001052.png
+trainIOU: 0.548842
+Processing Image Name :crop001053.png
+trainIOU: 0.645725
+Processing Image Name :crop001054.png
+trainIOU: 0.586807
+Processing Image Name :crop001055.png
+trainIOU: 0.730205
+Processing Image Name :crop001056.png
+trainIOU: 0.531165
+trainIOU: 0.689935
+Processing Image Name :crop001057.png
+trainIOU: 0.559625
+Processing Image Name :crop001058.png
+trainIOU: 0.634561
+Processing Image Name :crop001059.png
+Processing Image Name :crop001060.png
+trainIOU: 0.723781
+Processing Image Name :crop001061.png
+trainIOU: 0.676407
+Processing Image Name :crop001063.png
+Processing Image Name :crop001064.png
+trainIOU: 0.50128
+trainIOU: 0.597131
+trainIOU: 0.626246
+trainIOU: 0.635881
+Processing Image Name :crop001066.png
+trainIOU: 0.677875
+Processing Image Name :crop001068.png
+Processing Image Name :crop001069.png
+trainIOU: 0.754063
+Processing Image Name :crop001070.png
+trainIOU: 0.637589
+Processing Image Name :crop001071.png
+Processing Image Name :crop001072.png
+trainIOU: 0.528441
+trainIOU: 0.514062
+trainIOU: 0.553705
+Processing Image Name :crop001073.png
+trainIOU: 0.623669
+Processing Image Name :crop001074.png
+trainIOU: 0.557631
+trainIOU: 0.556644
+Processing Image Name :crop001075.png
+Processing Image Name :crop001078.png
+trainIOU: 0.563843
+Processing Image Name :crop001079.png
+trainIOU: 0.541521
+Processing Image Name :crop001081.png
+trainIOU: 0.560927
+trainIOU: 0.646764
+Processing Image Name :crop001083.png
+trainIOU: 0.51686
+Processing Image Name :crop001084.png
+Processing Image Name :crop001085.png
+Processing Image Name :crop001086.png
+trainIOU: 0.651075
+Processing Image Name :crop001087.png
+trainIOU: 0.594949
+Processing Image Name :crop001088.png
+Processing Image Name :crop001089.png
+Processing Image Name :crop001090.png
+trainIOU: 0.601937
+Processing Image Name :crop001091.png
+Processing Image Name :crop001092.png
+Processing Image Name :crop001093.png
+Processing Image Name :crop001094.png
+trainIOU: 0.550403
+trainIOU: 0.626892
+trainIOU: 0.576846
+trainIOU: 0.631548
+Processing Image Name :crop001095.png
+trainIOU: 0.603082
+trainIOU: 0.587383
+Processing Image Name :crop001096.png
+trainIOU: 0.664408
+Processing Image Name :crop001097.png
+trainIOU: 0.558494
+Processing Image Name :crop001098.png
+Processing Image Name :crop001099.png
+trainIOU: 0.691626
+Processing Image Name :crop001102.png
+trainIOU: 0.629377
+trainIOU: 0.604105
+trainIOU: 0.676966
+trainIOU: 0.519368
+trainIOU: 0.709755
+Processing Image Name :crop001103.png
+Processing Image Name :crop001104.png
+trainIOU: 0.515625
+trainIOU: 0.685302
+Processing Image Name :crop001105.png
+Processing Image Name :crop001106.png
+trainIOU: 0.702985
+Processing Image Name :crop001107.png
+trainIOU: 0.630352
+Processing Image Name :crop001108.png
+trainIOU: 0.702259
+Processing Image Name :crop001109.png
+Processing Image Name :crop001110.png
+Processing Image Name :crop001111.png
+trainIOU: 0.527182
+Processing Image Name :crop001112.png
+trainIOU: 0.524053
+trainIOU: 0.597529
+Processing Image Name :crop001113.png
+trainIOU: 0.657147
+trainIOU: 0.647627
+trainIOU: 0.557481
+Processing Image Name :crop001114.png
+trainIOU: 0.633815
+trainIOU: 0.688223
+trainIOU: 0.537377
+Processing Image Name :crop001115.png
+Processing Image Name :crop001116.png
+trainIOU: 0.78718
+trainIOU: 0.586324
+Processing Image Name :crop001119.png
+trainIOU: 0.657667
+Processing Image Name :crop001120.png
+trainIOU: 0.663973
+trainIOU: 0.664354
+Processing Image Name :crop001121.png
+trainIOU: 0.721143
+trainIOU: 0.587435
+trainIOU: 0.64988
+Processing Image Name :crop001122.png
+trainIOU: 0.555556
+trainIOU: 0.634972
+Processing Image Name :crop001123.png
+trainIOU: 0.506012
+Processing Image Name :crop001124.png
+trainIOU: 0.547196
+trainIOU: 0.743641
+Processing Image Name :crop001125.png
+trainIOU: 0.548162
+trainIOU: 0.572571
+Processing Image Name :crop001126.png
+trainIOU: 0.654086
+Processing Image Name :crop001127.png
+trainIOU: 0.734869
+Processing Image Name :crop001128.png
+Processing Image Name :crop001129.png
+trainIOU: 0.652168
+Processing Image Name :crop001130.png
+Processing Image Name :crop001131.png
+trainIOU: 0.68818
+Processing Image Name :crop001132.png
+trainIOU: 0.721622
+Processing Image Name :crop001133.png
+trainIOU: 0.501197
+Processing Image Name :crop001134.png
+trainIOU: 0.636049
+Processing Image Name :crop001135.png
+trainIOU: 0.554698
+Processing Image Name :crop001136.png
+Processing Image Name :crop001137.png
+Processing Image Name :crop001138.png
+Processing Image Name :crop001140.png
+Processing Image Name :crop001141.png
+trainIOU: 0.519103
+Processing Image Name :crop001142.png
+Processing Image Name :crop001143.png
+trainIOU: 0.631352
+Processing Image Name :crop001144.png
+trainIOU: 0.631683
+trainIOU: 0.684059
+Processing Image Name :crop001145.png
+trainIOU: 0.749478
+trainIOU: 0.543168
+Processing Image Name :crop001146.png
+Processing Image Name :crop001147.png
+trainIOU: 0.650908
+Processing Image Name :crop001148.png
+Processing Image Name :crop001149.png
+Processing Image Name :crop001150.png
+trainIOU: 0.562042
+Processing Image Name :crop001151.png
+Processing Image Name :crop001152.png
+Processing Image Name :crop001153.png
+trainIOU: 0.631579
+Processing Image Name :crop001154.png
+Processing Image Name :crop001155.png
+Processing Image Name :crop001156.png
+Processing Image Name :crop001158.png
+trainIOU: 0.867002
+Processing Image Name :crop001160.png
+Processing Image Name :crop001162.png
+trainIOU: 0.567573
+trainIOU: 0.533745
+trainIOU: 0.625555
+Processing Image Name :crop001163.png
+trainIOU: 0.641109
+Processing Image Name :crop001164.png
+trainIOU: 0.612235
+trainIOU: 0.556679
+trainIOU: 0.502776
+trainIOU: 0.67072
+Processing Image Name :crop001200.png
+Processing Image Name :crop001201.png
+Processing Image Name :crop001202.png
+trainIOU: 0.657978
+Processing Image Name :crop001205.png
+Processing Image Name :crop001206.png
+Processing Image Name :crop001207.png
+trainIOU: 0.718343
+Processing Image Name :crop001208.png
+trainIOU: 0.666588
+trainIOU: 0.863991
+Processing Image Name :crop001210.png
+trainIOU: 0.698099
+Processing Image Name :crop001211.png
+trainIOU: 0.756156
+Processing Image Name :crop001212.png
+Processing Image Name :crop001213.png
+trainIOU: 0.790802
+Processing Image Name :crop001214.png
+Processing Image Name :crop001216.png
+trainIOU: 0.618761
+Processing Image Name :crop001217.png
+trainIOU: 0.53056
+trainIOU: 0.7494
+Processing Image Name :crop001218.png
+Processing Image Name :crop001219.png
+Processing Image Name :crop001220.png
+trainIOU: 0.521628
+Processing Image Name :crop001222.png
+trainIOU: 0.771709
+Processing Image Name :crop001230.png
+Processing Image Name :crop001231.png
+Processing Image Name :crop001232.png
+Processing Image Name :crop001234.png
+Processing Image Name :crop001235.png
+Processing Image Name :crop001236.png
+trainIOU: 0.589455
+trainIOU: 0.672959
+trainIOU: 0.727541
+Processing Image Name :crop001237.png
+trainIOU: 0.606882
+Processing Image Name :crop001238.png
+trainIOU: 0.515759
+Processing Image Name :crop001241.png
+trainIOU: 0.641725
+Processing Image Name :crop001242.png
+trainIOU: 0.587251
+Processing Image Name :crop001246.png
+Processing Image Name :crop001247.png
+trainIOU: 0.691158
+Processing Image Name :crop001248.png
+Processing Image Name :crop001250.png
+trainIOU: 0.701092
+Processing Image Name :crop001251.png
+Processing Image Name :crop001252.png
+Processing Image Name :crop001253.png
+Processing Image Name :crop001254.png
+Processing Image Name :crop001255.png
+trainIOU: 0.634937
+Processing Image Name :crop001256.png
+trainIOU: 0.542155
+Processing Image Name :crop001257.png
+trainIOU: 0.703372
+Processing Image Name :crop001258.png
+Processing Image Name :crop001259.png
+Processing Image Name :crop001260.png
+Processing Image Name :crop001263.png
+trainIOU: 0.693792
+Processing Image Name :crop001264.png
+Processing Image Name :crop001265.png
+trainIOU: 0.512033
+trainIOU: 0.516821
+Processing Image Name :crop001267.png
+trainIOU: 0.619243
+trainIOU: 0.606452
+Processing Image Name :crop001268.png
+trainIOU: 0.743598
+trainIOU: 0.557714
+trainIOU: 0.711473
+trainIOU: 0.691212
+Processing Image Name :crop001270.png
+Processing Image Name :crop001271.png
+trainIOU: 0.588838
+Processing Image Name :crop001272.png
+trainIOU: 0.77409
+Processing Image Name :crop001273.png
+trainIOU: 0.621396
+trainIOU: 0.755366
+Processing Image Name :crop001274.png
+Processing Image Name :crop001275.png
+trainIOU: 0.785996
+Processing Image Name :crop001276.png
+trainIOU: 0.598744
+Processing Image Name :crop001278.png
+trainIOU: 0.816097
+Processing Image Name :crop001500.png
+trainIOU: 0.716281
+Processing Image Name :crop001503.png
+Processing Image Name :crop001505.png
+trainIOU: 0.536563
+Processing Image Name :crop001506.png
+Processing Image Name :crop001507.png
+Processing Image Name :crop001508.png
+Processing Image Name :crop001509.png
+trainIOU: 0.53153
+Processing Image Name :crop001510.png
+Processing Image Name :crop001513.png
+trainIOU: 0.604818
+trainIOU: 0.504673
+Processing Image Name :crop001515.png
+Processing Image Name :crop001516.png
+Processing Image Name :crop001517.png
+trainIOU: 0.585361
+Processing Image Name :crop001518.png
+Processing Image Name :crop001519.png
+trainIOU: 0.548247
+Processing Image Name :crop001523.png
+Processing Image Name :crop001524.png
+trainIOU: 0.509007
+Processing Image Name :crop001525.png
+trainIOU: 0.590483
+Processing Image Name :crop001526.png
+trainIOU: 0.532164
+trainIOU: 0.600311
+Processing Image Name :crop001527.png
+trainIOU: 0.572985
+trainIOU: 0.506802
+Processing Image Name :crop001528.png
+trainIOU: 0.508238
+Processing Image Name :crop001529.png
+trainIOU: 0.58093
+Processing Image Name :crop001530.png
+Processing Image Name :crop001532.png
+trainIOU: 0.553295
+trainIOU: 0.530207
+Processing Image Name :crop001534.png
+Processing Image Name :crop001536.png
+trainIOU: 0.504166
+trainIOU: 0.656435
+Processing Image Name :crop001537.png
+Processing Image Name :crop001538.png
+trainIOU: 0.569028
+Processing Image Name :crop001539.png
+Processing Image Name :crop001540.png
+trainIOU: 0.546229
+Processing Image Name :crop001541.png
+Processing Image Name :crop001542.png
+Processing Image Name :crop001543.png
+Processing Image Name :crop001547.png
+Processing Image Name :crop001548.png
+Processing Image Name :crop001550.png
+Processing Image Name :crop001551.png
+Processing Image Name :crop001552.png
+trainIOU: 0.516285
+trainIOU: 0.612204
+Processing Image Name :crop001553.png
+Processing Image Name :crop001554.png
+Processing Image Name :crop001556.png
+Processing Image Name :crop001557.png
+Processing Image Name :crop001558.png
+Processing Image Name :crop001559.png
+trainIOU: 0.62419
+trainIOU: 0.514759
+Processing Image Name :crop001560.png
+trainIOU: 0.746411
+Processing Image Name :crop001561.png
+trainIOU: 0.546359
+Processing Image Name :crop001562.png
+Processing Image Name :crop001563.png
+Processing Image Name :crop001564.png
+Processing Image Name :crop001565.png
+Processing Image Name :crop001567.png
+trainIOU: 0.659731
+Processing Image Name :crop001568.png
+trainIOU: 0.566728
+Processing Image Name :crop001569.png
+trainIOU: 0.529717
+Processing Image Name :crop001570.png
+trainIOU: 0.566126
+Processing Image Name :crop001571.png
+trainIOU: 0.519481
+trainIOU: 0.606322
+trainIOU: 0.664142
+Processing Image Name :crop001572.png
+Processing Image Name :crop001577.png
+Processing Image Name :crop001578.png
+trainIOU: 0.50238
+Processing Image Name :crop001579.png
+trainIOU: 0.755966
+Processing Image Name :crop001580.png
+Processing Image Name :crop001581.png
+Processing Image Name :crop001582.png
+Processing Image Name :crop001583.png
+Processing Image Name :crop001584.png
+Processing Image Name :crop001589.png
+trainIOU: 0.501283
+Processing Image Name :crop001591.png
+trainIOU: 0.581629
+Processing Image Name :crop001592.png
+trainIOU: 0.634863
+Processing Image Name :crop001594.png
+trainIOU: 0.541887
+trainIOU: 0.542357
+trainIOU: 0.529706
+Processing Image Name :crop001595.png
+trainIOU: 0.511696
+Processing Image Name :crop001596.png
+Processing Image Name :crop001597.png
+Processing Image Name :crop001598.png
+Processing Image Name :crop001599.png
+trainIOU: 0.586635
+Processing Image Name :crop001600.png
+Processing Image Name :crop001601.png
+trainIOU: 0.550562
+Processing Image Name :crop001603.png
+trainIOU: 0.589372
+Processing Image Name :crop001605.png
+trainIOU: 0.685714
+Processing Image Name :crop001606.png
+Processing Image Name :crop001608.png
+Processing Image Name :crop001609.png
+trainIOU: 0.630252
+Processing Image Name :crop001610.png
+Processing Image Name :crop001611.png
+Processing Image Name :crop001612.png
+trainIOU: 0.543024
+trainIOU: 0.567977
+trainIOU: 0.682625
+trainIOU: 0.697084
+Processing Image Name :crop001613.png
+trainIOU: 0.578112
+Processing Image Name :crop001614.png
+trainIOU: 0.506246
+trainIOU: 0.624776
+Processing Image Name :crop001615.png
+Processing Image Name :crop001616.png
+trainIOU: 0.566376
+trainIOU: 0.503124
+trainIOU: 0.501766
+trainIOU: 0.554572
+trainIOU: 0.506014
+trainIOU: 0.579035
+trainIOU: 0.605862
+trainIOU: 0.523246
+Processing Image Name :crop001617.png
+trainIOU: 0.534728
+Processing Image Name :crop001618.png
+Processing Image Name :crop001619.png
+trainIOU: 0.637576
+trainIOU: 0.517112
+Processing Image Name :crop001620.png
+trainIOU: 0.585461
+trainIOU: 0.541311
+trainIOU: 0.578947
+trainIOU: 0.560652
+Processing Image Name :crop001621.png
+trainIOU: 0.588752
+Processing Image Name :crop001622.png
+trainIOU: 0.598752
+Processing Image Name :crop001623.png
+Processing Image Name :crop001624.png
+trainIOU: 0.569569
+Processing Image Name :crop001625.png
+trainIOU: 0.519562
+Processing Image Name :crop001626.png
+trainIOU: 0.545166
+trainIOU: 0.721572
+Processing Image Name :crop001627.png
+Processing Image Name :crop001628.png
+Processing Image Name :crop001629.png
+Processing Image Name :crop001630.png
+trainIOU: 0.71958
+Processing Image Name :crop001632.png
+trainIOU: 0.640636
+Processing Image Name :crop001635.png
+trainIOU: 0.544497
+trainIOU: 0.534598
+trainIOU: 0.535657
+Processing Image Name :crop001636.png
+Processing Image Name :crop001637.png
+trainIOU: 0.557624
+trainIOU: 0.56
+trainIOU: 0.525316
+trainIOU: 0.577829
+Processing Image Name :crop001640.png
+trainIOU: 0.65026
+Processing Image Name :crop001642.png
+trainIOU: 0.537439
+Processing Image Name :crop001643.png
+trainIOU: 0.580536
+Processing Image Name :crop001644.png
+trainIOU: 0.572935
+Processing Image Name :crop001646.png
+trainIOU: 0.690206
+trainIOU: 0.653355
+trainIOU: 0.542062
+Processing Image Name :crop001647.png
+Processing Image Name :crop001648.png
+trainIOU: 0.575348
+Processing Image Name :crop001649.png
+trainIOU: 0.649974
+trainIOU: 0.533994
+trainIOU: 0.64095
+Processing Image Name :crop001650.png
+trainIOU: 0.805158
+Processing Image Name :crop001651.png
+trainIOU: 0.671168
+trainIOU: 0.572637
+Processing Image Name :crop001652.png
+trainIOU: 0.50679
+Processing Image Name :crop001655.png
+trainIOU: 0.558186
+trainIOU: 0.53908
+trainIOU: 0.592086
+Processing Image Name :crop001656.png
+Processing Image Name :crop001657.png
+trainIOU: 0.561779
+Processing Image Name :crop001662.png
+trainIOU: 0.609752
+trainIOU: 0.58169
+trainIOU: 0.66129
+Processing Image Name :crop001663.png
+trainIOU: 0.645258
+Processing Image Name :crop001665.png
+trainIOU: 0.566215
+Processing Image Name :crop001666.png
+trainIOU: 0.747826
+trainIOU: 0.634322
+Processing Image Name :crop001667.png
+trainIOU: 0.714933
+Processing Image Name :crop001668.png
+trainIOU: 0.551355
+trainIOU: 0.753448
+Processing Image Name :crop001669.png
+Processing Image Name :crop001671.png
+trainIOU: 0.602357
+Processing Image Name :crop001672.png
+trainIOU: 0.652259
+Processing Image Name :crop001673.png
+Processing Image Name :crop001674.png
+trainIOU: 0.589461
+Processing Image Name :crop001675.png
+Processing Image Name :crop001677.png
+Processing Image Name :crop001678.png
+Processing Image Name :crop001679.png
+trainIOU: 0.658411
+Processing Image Name :crop001680.png
+trainIOU: 0.559377
+trainIOU: 0.611592
+Processing Image Name :crop001681.png
+Processing Image Name :crop001685.png
+trainIOU: 0.563351
+Processing Image Name :crop001686.png
+Processing Image Name :crop001687.png
+Processing Image Name :crop001689.png
+Processing Image Name :crop001690.png
+trainIOU: 0.661391
+trainIOU: 0.560788
+trainIOU: 0.545892
+trainIOU: 0.663509
+Processing Image Name :crop001691.png
+trainIOU: 0.558042
+Processing Image Name :crop001692.png
+trainIOU: 0.577292
+trainIOU: 0.577031
+Processing Image Name :crop001693.png
+trainIOU: 0.627046
+trainIOU: 0.559415
+Processing Image Name :crop001694.png
+Processing Image Name :crop001695.png
+Processing Image Name :crop001696.png
+Processing Image Name :crop001697.png
+trainIOU: 0.636198
+Processing Image Name :crop001698.png
+Processing Image Name :crop001699.png
+Processing Image Name :crop001700.png
+Processing Image Name :crop001701.png
+trainIOU: 0.505118
+Processing Image Name :crop001702.png
+trainIOU: 0.720837
+Processing Image Name :crop001703.png
+Processing Image Name :crop001705.png
+trainIOU: 0.545914
+Processing Image Name :crop001707.png
+trainIOU: 0.532052
+Processing Image Name :crop001708.png
+Processing Image Name :crop001709.png
+Processing Image Name :crop001710.png
+Processing Image Name :crop001711.png
+trainIOU: 0.52405
+trainIOU: 0.521749
+trainIOU: 0.5272
+trainIOU: 0.671345
+trainIOU: 0.543583
+Processing Image Name :crop001712.png
+trainIOU: 0.541042
+Processing Image Name :crop001713.png
+Processing Image Name :crop001714.png
+Processing Image Name :crop001717.png
+trainIOU: 0.679987
+Processing Image Name :crop001720.png
+trainIOU: 0.584283
+trainIOU: 0.68736
+trainIOU: 0.671949
+Processing Image Name :crop001721.png
+Processing Image Name :crop001806.png
+trainIOU: 0.506734
+Processing Image Name :crop001807.png
+trainIOU: 0.630031
+trainIOU: 0.611948
+Processing Image Name :crop001808.png
+Processing Image Name :crop001809.png
+trainIOU: 0.589147
+Processing Image Name :crop001810.png
+Processing Image Name :crop001811.png
+trainIOU: 0.592988
+Processing Image Name :crop001812.png
+Processing Image Name :crop001813.png
+trainIOU: 0.561523
+Processing Image Name :crop001814.png
+trainIOU: 0.6367
+Processing Image Name :crop001815.png
+trainIOU: 0.627778
+trainIOU: 0.658512
+Processing Image Name :crop001816.png
+Processing Image Name :crop001817.png
+trainIOU: 0.666667
+Processing Image Name :crop001818.png
+trainIOU: 0.64792
+Processing Image Name :crop001819.png
+trainIOU: 0.683903
+Processing Image Name :crop001820.png
+Processing Image Name :crop001823.png
+trainIOU: 0.549931
+Processing Image Name :crop001824.png
+Processing Image Name :crop001829.png
+trainIOU: 0.544615
+Processing Image Name :crop001830.png
+trainIOU: 0.59028
+Processing Image Name :crop001831.png
+trainIOU: 0.70733
+Processing Image Name :crop001832.png
+trainIOU: 0.604648
+Processing Image Name :crop001833.png
+Processing Image Name :crop001835.png
+trainIOU: 0.611018
+Processing Image Name :crop001836.png
+Processing Image Name :crop001837.png
+Processing Image Name :crop001838.png
+Processing Image Name :crop001839.png
+trainIOU: 0.629928
+Processing Image Name :crop001840.png
+Processing Image Name :crop001841.png
+trainIOU: 0.52677
+Processing Image Name :crop001842.png
+trainIOU: 0.73178
+Processing Image Name :crop001843.png
+Processing Image Name :crop_000010.png
+Processing Image Name :crop_000011.png
+Processing Image Name :crop_000603.png
+Processing Image Name :crop_000606.png
+trainIOU: 0.53817
+Processing Image Name :crop_000607.png
+trainIOU: 0.667714
+Processing Image Name :crop_000608.png
+trainIOU: 0.810865
+Processing Image Name :person_044.png
+trainIOU: 0.554426
+trainIOU: 0.691133
+Processing Image Name :person_050.png
+trainIOU: 0.696954
+Processing Image Name :person_060.png
+Processing Image Name :person_061.png
+trainIOU: 0.594807
+Processing Image Name :person_086.png
+Processing Image Name :person_091.png
+trainIOU: 0.530444
+Processing Image Name :person_097.png
+trainIOU: 0.740442
+Processing Image Name :person_101.png
+trainIOU: 0.594716
+trainIOU: 0.506391
+Processing Image Name :person_102.png
+trainIOU: 0.566705
+trainIOU: 0.707733
+Processing Image Name :person_103.png
+trainIOU: 0.713317
+Processing Image Name :person_106.png
+trainIOU: 0.883867
+Processing Image Name :person_111.png
+Processing Image Name :person_112.png
+Processing Image Name :person_114.png
+Processing Image Name :person_117.png
+trainIOU: 0.648071
+Processing Image Name :person_119.png
+trainIOU: 0.609148
+Processing Image Name :person_121.png
+Processing Image Name :person_124.png
+trainIOU: 0.590068
+Processing Image Name :person_125.png
+Processing Image Name :person_126.png
+trainIOU: 0.613588
+trainIOU: 0.705447
+Processing Image Name :person_128.png
+trainIOU: 0.6512
+trainIOU: 0.593835
+trainIOU: 0.557143
+Processing Image Name :person_129.png
+trainIOU: 0.636816
+trainIOU: 0.615933
+Processing Image Name :person_130.png
+trainIOU: 0.537415
+Processing Image Name :person_131.png
+trainIOU: 0.694107
+trainIOU: 0.624603
+Processing Image Name :person_133.png
+trainIOU: 0.568238
+trainIOU: 0.748349
+Processing Image Name :person_139.png
+trainIOU: 0.712446
+trainIOU: 0.502006
+trainIOU: 0.619747
+trainIOU: 0.600173
+trainIOU: 0.632929
+Processing Image Name :person_141.png
+trainIOU: 0.786518
+Processing Image Name :person_142.png
+trainIOU: 0.517882
+trainIOU: 0.685801
+Processing Image Name :person_143.png
+trainIOU: 0.728581
+trainIOU: 0.500805
+Processing Image Name :person_156.png
+Processing Image Name :person_160.png
+trainIOU: 0.623017
+trainIOU: 0.679852
+trainIOU: 0.704059
+Processing Image Name :person_162.png
+trainIOU: 0.638312
+trainIOU: 0.696029
+Processing Image Name :person_165.png
+trainIOU: 0.773932
+Processing Image Name :person_166.png
+trainIOU: 0.557248
+trainIOU: 0.738686
+Processing Image Name :person_167.png
+trainIOU: 0.617111
+trainIOU: 0.697459
+Processing Image Name :person_168.png
+trainIOU: 0.503472
+trainIOU: 0.556765
+Processing Image Name :person_169.png
+trainIOU: 0.680851
+trainIOU: 0.74552
+Processing Image Name :person_170.png
+trainIOU: 0.639906
+trainIOU: 0.564796
+Processing Image Name :person_171.png
+trainIOU: 0.501247
+trainIOU: 0.636181
+Processing Image Name :person_172.png
+trainIOU: 0.67464
+trainIOU: 0.662288
+trainIOU: 0.695035
+Processing Image Name :person_173.png
+trainIOU: 0.509691
+Processing Image Name :person_174.png
+trainIOU: 0.735159
+trainIOU: 0.711538
+trainIOU: 0.890903
+Processing Image Name :person_175.png
+trainIOU: 0.536281
+trainIOU: 0.561061
+trainIOU: 0.670498
+trainIOU: 0.694301
+trainIOU: 0.626667
+Processing Image Name :person_176.png
+trainIOU: 0.666667
+trainIOU: 0.749174
+trainIOU: 0.644809
+trainIOU: 0.649704
+Processing Image Name :person_177.png
+trainIOU: 0.541947
+trainIOU: 0.512821
+trainIOU: 0.526605
+Processing Image Name :person_178.png
+Processing Image Name :person_179.png
+trainIOU: 0.764993
+Processing Image Name :person_181.png
+trainIOU: 0.651185
+Processing Image Name :person_185.png
+trainIOU: 0.57962
+Processing Image Name :person_187.png
+trainIOU: 0.783594
+trainIOU: 0.615897
+Processing Image Name :person_195.png
+trainIOU: 0.664719
+trainIOU: 0.535158
+Processing Image Name :person_196.png
+trainIOU: 0.566701
+trainIOU: 0.672875
+Processing Image Name :person_199.png
+trainIOU: 0.60871
+trainIOU: 0.752649
+trainIOU: 0.57084
+trainIOU: 0.842063
+trainIOU: 0.558546
+trainIOU: 0.558998
+Processing Image Name :person_201.png
+trainIOU: 0.524701
+Processing Image Name :person_202.png
+trainIOU: 0.505922
+trainIOU: 0.561993
+trainIOU: 0.695304
+Processing Image Name :person_203.png
+Processing Image Name :person_208.png
+trainIOU: 0.665781
+Processing Image Name :person_209.png
+trainIOU: 0.654571
+Processing Image Name :person_211.png
+Processing Image Name :person_214.png
+trainIOU: 0.546112
+trainIOU: 0.533142
+Processing Image Name :person_219.png
+trainIOU: 0.627686
+trainIOU: 0.506766
+Processing Image Name :person_220.png
+trainIOU: 0.759352
+Processing Image Name :person_221.png
+trainIOU: 0.787037
+Processing Image Name :person_223.png
+trainIOU: 0.653668
+Processing Image Name :person_224.png
+trainIOU: 0.645492
+trainIOU: 0.651065
+Processing Image Name :person_225.png
+trainIOU: 0.6617
+trainIOU: 0.549113
+trainIOU: 0.625337
+Processing Image Name :person_228.png
+trainIOU: 0.531401
+trainIOU: 0.613376
+trainIOU: 0.566434
+Processing Image Name :person_229.png
+Processing Image Name :person_231.png
+trainIOU: 0.575377
+Processing Image Name :person_232.png
+trainIOU: 0.690666
+trainIOU: 0.701618
+trainIOU: 0.579407
+Processing Image Name :person_233.png
+trainIOU: 0.730308
+trainIOU: 0.536332
+Processing Image Name :person_234.png
+trainIOU: 0.653009
+trainIOU: 0.668302
+trainIOU: 0.680256
+Processing Image Name :person_235.png
+trainIOU: 0.811712
+trainIOU: 0.731756
+Processing Image Name :person_237.png
+trainIOU: 0.584006
+trainIOU: 0.644292
+Processing Image Name :person_238.png
+trainIOU: 0.54127
+trainIOU: 0.763636
+Processing Image Name :person_239.png
+trainIOU: 0.531472
+Processing Image Name :person_240.png
+trainIOU: 0.738768
+trainIOU: 0.679348
+Processing Image Name :person_241.png
+trainIOU: 0.692634
+trainIOU: 0.600351
+Processing Image Name :person_242.png
+trainIOU: 0.691916
+trainIOU: 0.614987
+Processing Image Name :person_243.png
+trainIOU: 0.583838
+Processing Image Name :person_244.png
+trainIOU: 0.51023
+Processing Image Name :person_245.png
+trainIOU: 0.646539
+Processing Image Name :person_252.png
+trainIOU: 0.576356
+trainIOU: 0.58464
+Processing Image Name :person_253.png
+trainIOU: 0.680863
+trainIOU: 0.59633
+trainIOU: 0.57384
+trainIOU: 0.527092
+Processing Image Name :person_254.png
+trainIOU: 0.55332
+trainIOU: 0.647059
+trainIOU: 0.612701
+Processing Image Name :person_256.png
+Processing Image Name :person_257.png
+trainIOU: 0.529145
+trainIOU: 0.606122
+Processing Image Name :person_258.png
+trainIOU: 0.668451
+Processing Image Name :person_259.png
+trainIOU: 0.69985
+Processing Image Name :person_260.png
+trainIOU: 0.542314
+trainIOU: 0.672591
+Processing Image Name :person_266.png
+Processing Image Name :person_269.png
+Processing Image Name :person_270.png
+Processing Image Name :person_273.png
+trainIOU: 0.685354
+trainIOU: 0.669975
+Processing Image Name :person_274.png
+trainIOU: 0.58083
+Processing Image Name :person_275.png
+trainIOU: 0.56771
+Processing Image Name :person_279.png
+trainIOU: 0.662552
+Processing Image Name :person_281.png
+trainIOU: 0.614189
+trainIOU: 0.568091
+Processing Image Name :person_283.png
+trainIOU: 0.80109
+Processing Image Name :person_284.png
+trainIOU: 0.757432
+trainIOU: 0.533333
+Processing Image Name :person_285.png
+trainIOU: 0.666902
+Processing Image Name :person_286.png
+trainIOU: 0.649101
+trainIOU: 0.534064
+Processing Image Name :person_287.png
+trainIOU: 0.660792
+trainIOU: 0.581006
+Processing Image Name :person_288.png
+trainIOU: 0.569499
+trainIOU: 0.530928
+Processing Image Name :person_289.png
+trainIOU: 0.514286
+Processing Image Name :person_291.png
+trainIOU: 0.685121
+trainIOU: 0.513341
+Processing Image Name :person_292.png
+trainIOU: 0.707538
+Processing Image Name :person_294.png
+trainIOU: 0.729398
+Processing Image Name :person_295.png
+Processing Image Name :person_296.png
+trainIOU: 0.556575
+Processing Image Name :person_297.png
+trainIOU: 0.553278
+trainIOU: 0.55336
+trainIOU: 0.734259
+Processing Image Name :person_298.png
+trainIOU: 0.635125
+Processing Image Name :person_299.png
+trainIOU: 0.550085
+Processing Image Name :person_300.png
+trainIOU: 0.580413
+Processing Image Name :person_301.png
+Processing Image Name :person_302.png
+trainIOU: 0.723394
+trainIOU: 0.615841
+Processing Image Name :person_304.png
+Processing Image Name :person_305.png
+trainIOU: 0.600875
+trainIOU: 0.522694
+Processing Image Name :person_319.png
+trainIOU: 0.601238
+trainIOU: 0.520336
+Processing Image Name :person_320.png
+trainIOU: 0.577576
+trainIOU: 0.8
+trainIOU: 0.510615
+Processing Image Name :person_321.png
+trainIOU: 0.52748
+trainIOU: 0.62069
+Processing Image Name :person_324.png
+trainIOU: 0.71996
+trainIOU: 0.81593
+Processing Image Name :person_327.png
+Processing Image Name :person_328.png
+trainIOU: 0.575407
+Processing Image Name :person_329.png
+trainIOU: 0.542624
+Processing Image Name :person_331.png
+trainIOU: 0.722128
+Processing Image Name :person_333.png
+trainIOU: 0.769308
+trainIOU: 0.731588
+trainIOU: 0.82245
+trainIOU: 0.702778
+Processing Image Name :person_334.png
+Processing Image Name :person_339.png
+Processing Image Name :person_340.png
+trainIOU: 0.70366
+trainIOU: 0.815965
+Processing Image Name :person_341.png
+trainIOU: 0.612498
+Processing Image Name :person_342.png
+trainIOU: 0.722142
+Processing Image Name :person_343.png
+trainIOU: 0.796605
+Processing Image Name :person_344.png
+trainIOU: 0.62503
+Processing Image Name :person_346.png
+trainIOU: 0.645432
+Processing Image Name :person_348.png
+trainIOU: 0.556354
+trainIOU: 0.642276
+trainIOU: 0.613113
+Processing Image Name :person_349.png
+trainIOU: 0.544286
+Processing Image Name :person_356.png
+trainIOU: 0.514432
+Processing Image Name :person_357.png
+Processing Image Name :person_358.png
+trainIOU: 0.908673
+Processing Image Name :person_376.png
+trainIOU: 0.666667
+trainIOU: 0.722613
+Processing Image Name :person_377.png
+trainIOU: 0.698877
+trainIOU: 0.534722
+trainIOU: 0.623077
+trainIOU: 0.553289
+Processing Image Name :person_378.png
+trainIOU: 0.626431
+trainIOU: 0.55102
+trainIOU: 0.581276
+trainIOU: 0.578285
+Processing Image Name :person_387.png
+Processing Image Name :person_395.png
+trainIOU: 0.721569
+Processing Image Name :person_414.png
+trainIOU: 0.545576
+trainIOU: 0.683135
+Processing Image Name :person_425.png
+trainIOU: 0.555993
+trainIOU: 0.528945
+Processing Image Name :person_and_bike_002.png
+trainIOU: 0.589372
+trainIOU: 0.555379
+Processing Image Name :person_and_bike_003.png
+trainIOU: 0.534084
+Processing Image Name :person_and_bike_005.png
+trainIOU: 0.545498
+Processing Image Name :person_and_bike_007.png
+trainIOU: 0.572484
+Processing Image Name :person_and_bike_008.png
+trainIOU: 0.535888
+Processing Image Name :person_and_bike_009.png
+Processing Image Name :person_and_bike_010.png
+trainIOU: 0.677784
+trainIOU: 0.580833
+Processing Image Name :person_and_bike_011.png
+trainIOU: 0.663139
+Processing Image Name :person_and_bike_013.png
+trainIOU: 0.618785
+Processing Image Name :person_and_bike_015.png
+Processing Image Name :person_and_bike_016.png
+trainIOU: 0.544643
+trainIOU: 0.611799
+trainIOU: 0.59234
+Processing Image Name :person_and_bike_017.png
+Processing Image Name :person_and_bike_019.png
+Processing Image Name :person_and_bike_020.png
+trainIOU: 0.593567
+trainIOU: 0.539941
+Processing Image Name :person_and_bike_021.png
+trainIOU: 0.684207
+Processing Image Name :person_and_bike_022.png
+trainIOU: 0.74568
+Processing Image Name :person_and_bike_023.png
+trainIOU: 0.60487
+Processing Image Name :person_and_bike_026.png
+trainIOU: 0.755556
+Processing Image Name :person_and_bike_030.png
+trainIOU: 0.660091
+trainIOU: 0.723942
+Processing Image Name :person_and_bike_031.png
+Processing Image Name :person_and_bike_033.png
+Processing Image Name :person_and_bike_034.png
+Processing Image Name :person_and_bike_036.png
+Processing Image Name :person_and_bike_039.png
+Processing Image Name :person_and_bike_040.png
+trainIOU: 0.506616
+Processing Image Name :person_and_bike_074.png
+Processing Image Name :person_and_bike_075.png
+trainIOU: 0.638145
+Processing Image Name :person_and_bike_078.png
+Processing Image Name :person_and_bike_117.png
+trainIOU: 0.680834
+trainIOU: 0.512465
+Processing Image Name :person_and_bike_118.png
+Processing Image Name :person_and_bike_119.png
+trainIOU: 0.540643
+Processing Image Name :person_and_bike_120.png
+trainIOU: 0.53489
+Processing Image Name :person_and_bike_121.png
+trainIOU: 0.50739
+Processing Image Name :person_and_bike_123.png
+trainIOU: 0.606026
+Processing Image Name :person_and_bike_124.png
+trainIOU: 0.609166
+Processing Image Name :person_and_bike_125.png
+trainIOU: 0.599302
+trainIOU: 0.605613
+trainIOU: 0.621299
+trainIOU: 0.566319
+Processing Image Name :person_and_bike_127.png
+trainIOU: 0.661446
+trainIOU: 0.581687
+Processing Image Name :person_and_bike_128.png
+trainIOU: 0.694981
+Processing Image Name :person_and_bike_129.png
+trainIOU: 0.621901
+trainIOU: 0.579491
+trainIOU: 0.527083
+trainIOU: 0.732905
+Processing Image Name :person_and_bike_130.png
+trainIOU: 0.733666
+trainIOU: 0.783784
+Processing Image Name :person_and_bike_132.png
+trainIOU: 0.724285
+trainIOU: 0.523871
+Processing Image Name :person_and_bike_134.png
+trainIOU: 0.669935
+Processing Image Name :person_and_bike_135.png
+trainIOU: 0.528382
+trainIOU: 0.564722
+Processing Image Name :person_and_bike_137.png
+trainIOU: 0.527867
+Processing Image Name :person_and_bike_138.png
+trainIOU: 0.584585
+Processing Image Name :person_and_bike_139.png
+trainIOU: 0.709743
+Processing Image Name :person_and_bike_142.png
+trainIOU: 0.531938
+Processing Image Name :person_and_bike_143.png
+trainIOU: 0.646998
+Processing Image Name :person_and_bike_146.png
+trainIOU: 0.542911
+trainIOU: 0.590536
+Processing Image Name :person_and_bike_147.png
+trainIOU: 0.616012
+trainIOU: 0.717672
+Processing Image Name :person_and_bike_148.png
+trainIOU: 0.614238
+trainIOU: 0.823881
+trainIOU: 0.707483
+trainIOU: 0.55544
+Processing Image Name :person_and_bike_150.png
+trainIOU: 0.647358
+trainIOU: 0.690947
+trainIOU: 0.759369
+Processing Image Name :person_and_bike_151.png
+trainIOU: 0.534746
+Processing Image Name :person_and_bike_152.png
+trainIOU: 0.564224
+trainIOU: 0.609756
+Processing Image Name :person_and_bike_155.png
+Processing Image Name :person_and_bike_156.png
+trainIOU: 0.54973
+Processing Image Name :person_and_bike_157.png
+trainIOU: 0.69934
+Processing Image Name :person_and_bike_166.png
+trainIOU: 0.73683
+Processing Image Name :person_and_bike_191.png
+trainIOU: 0.595981
+Processing Image Name :person_and_bike_207.png
+trainIOU: 0.725919
+Processing Image Name :person_and_bike_208.png
+Processing Image Name :person_and_bike_209.png
+trainIOU: 0.643583
+Processing Image Name :crop001501.png
+testIOU: 0.575175
+testIOU: 0.587406
+testIOU: 0.655024
+testIOU: 0.957406
+Processing Image Name :crop001504.png
+testIOU: 0.563774
+testIOU: 0.553923
+Processing Image Name :crop001511.png
+testIOU: 0.588312
+Processing Image Name :crop001512.png
+testIOU: 0.545139
+testIOU: 0.744422
+Processing Image Name :crop001514.png
+testIOU: 0.622143
+testIOU: 0.546767
+Processing Image Name :crop001520.png
+testIOU: 0.582749
+Processing Image Name :crop001521.png
+testIOU: 0.503926
+testIOU: 0.510015
+testIOU: 0.552312
+Processing Image Name :crop001522.png
+Processing Image Name :crop001531.png
+testIOU: 0.695454
+testIOU: 0.625742
+Processing Image Name :crop001533.png
+testIOU: 0.514876
+Processing Image Name :crop001544.png
+testIOU: 0.540194
+Processing Image Name :crop001545.png
+Processing Image Name :crop001546.png
+Processing Image Name :crop001549.png
+Processing Image Name :crop001555.png
+testIOU: 0.545533
+Processing Image Name :crop001566.png
+Processing Image Name :crop001573.png
+testIOU: 0.502938
+testIOU: 0.591365
+testIOU: 0.745639
+testIOU: 0.509137
+Processing Image Name :crop001574.png
+Processing Image Name :crop001590.png
+Processing Image Name :crop001593.png
+Processing Image Name :crop001602.png
+Processing Image Name :crop001604.png
+testIOU: 0.56307
+Processing Image Name :crop001607.png
+testIOU: 0.711864
+testIOU: 0.578568
+Processing Image Name :crop001631.png
+testIOU: 0.666667
+testIOU: 0.525627
+Processing Image Name :crop001633.png
+testIOU: 0.518619
+testIOU: 0.600323
+Processing Image Name :crop001634.png
+Processing Image Name :crop001638.png
+testIOU: 0.572806
+Processing Image Name :crop001639.png
+testIOU: 0.673244
+testIOU: 0.595
+testIOU: 0.563938
+Processing Image Name :crop001641.png
+Processing Image Name :crop001653.png
+Processing Image Name :crop001654.png
+testIOU: 0.529854
+Processing Image Name :crop001658.png
+testIOU: 0.512495
+testIOU: 0.62
+Processing Image Name :crop001659.png
+testIOU: 0.579436
+Processing Image Name :crop001660.png
+Processing Image Name :crop001661.png
+Processing Image Name :crop001664.png
+testIOU: 0.644713
+testIOU: 0.603865
+Processing Image Name :crop001670.png
+Processing Image Name :crop001676.png
+Processing Image Name :crop001682.png
+testIOU: 0.504883
+testIOU: 0.720745
+testIOU: 0.567568
+testIOU: 0.726744
+Processing Image Name :crop001683.png
+testIOU: 0.625472
+Processing Image Name :crop001684.png
+testIOU: 0.721958
+Processing Image Name :crop001688.png
+Processing Image Name :crop001704.png
+testIOU: 0.560618
+Processing Image Name :crop001706.png
+Processing Image Name :crop001715.png
+Processing Image Name :crop001716.png
+testIOU: 0.626694
+testIOU: 0.556056
+Processing Image Name :crop001718.png
+testIOU: 0.572719
+testIOU: 0.667789
+testIOU: 0.730609
+Processing Image Name :crop001719.png
+testIOU: 0.638146
+testIOU: 0.565995
+Processing Image Name :crop001722.png
+Processing Image Name :crop001723.png
+testIOU: 0.566319
+Processing Image Name :crop001724.png
+testIOU: 0.593056
+Processing Image Name :crop001725.png
+testIOU: 0.531879
+Processing Image Name :crop_000001.png
+Processing Image Name :crop_000002.png
+testIOU: 0.533235
+Processing Image Name :crop_000003.png
+testIOU: 0.583823
+Processing Image Name :crop_000004.png
+testIOU: 0.669082
+Processing Image Name :crop_000005.png
+testIOU: 0.682971
+testIOU: 0.874488
+Processing Image Name :crop_000006.png
+Processing Image Name :crop_000007.png
+Processing Image Name :crop_000008.png
+Processing Image Name :crop_000009.png
+Processing Image Name :crop_000012.png
+testIOU: 0.841591
+Processing Image Name :crop_000013.png
+Processing Image Name :crop_000015.png
+Processing Image Name :crop_000016.png
+Processing Image Name :crop_000017.png
+Processing Image Name :crop_000018.png
+Processing Image Name :crop_000019.png
+testIOU: 0.721368
+Processing Image Name :crop_000020.png
+testIOU: 0.577402
+Processing Image Name :crop_000021.png
+testIOU: 0.712551
+Processing Image Name :crop_000023.png
+testIOU: 0.724222
+Processing Image Name :crop_000024.png
+testIOU: 0.643112
+Processing Image Name :crop_000025.png
+Processing Image Name :crop_000026.png
+Processing Image Name :crop_000027.png
+Processing Image Name :crop_000604.png
+testIOU: 0.564817
+testIOU: 0.533751
+testIOU: 0.656729
+Processing Image Name :person_007.png
+testIOU: 0.548589
+Processing Image Name :person_008.png
+testIOU: 0.666301
+Processing Image Name :person_009.png
+Processing Image Name :person_010.png
+testIOU: 0.512784
+Processing Image Name :person_011.png
+testIOU: 0.778222
+Processing Image Name :person_012.png
+Processing Image Name :person_013.png
+testIOU: 0.668518
+Processing Image Name :person_014.png
+testIOU: 0.676362
+testIOU: 0.59179
+Processing Image Name :person_015.png
+testIOU: 0.668975
+Processing Image Name :person_026.png
+Processing Image Name :person_028.png
+Processing Image Name :person_029.png
+Processing Image Name :person_030.png
+Processing Image Name :person_032.png
+Processing Image Name :person_033.png
+Processing Image Name :person_034.png
+testIOU: 0.580697
+Processing Image Name :person_036.png
+Processing Image Name :person_037.png
+testIOU: 0.515048
+Processing Image Name :person_038.png
+testIOU: 0.751236
+Processing Image Name :person_039.png
+testIOU: 0.637016
+Processing Image Name :person_040.png
+testIOU: 0.667445
+Processing Image Name :person_051.png
+testIOU: 0.729259
+Processing Image Name :person_052.png
+Processing Image Name :person_053.png
+testIOU: 0.573016
+Processing Image Name :person_055.png
+Processing Image Name :person_056.png
+testIOU: 0.605192
+Processing Image Name :person_058.png
+testIOU: 0.507013
+Processing Image Name :person_059.png
+testIOU: 0.643201
+Processing Image Name :person_062.png
+testIOU: 0.808785
+Processing Image Name :person_063.png
+testIOU: 0.734568
+Processing Image Name :person_064.png
+testIOU: 0.56976
+Processing Image Name :person_065.png
+Processing Image Name :person_070.png
+testIOU: 0.680565
+Processing Image Name :person_071.png
+testIOU: 0.631579
+Processing Image Name :person_073.png
+Processing Image Name :person_075.png
+testIOU: 0.819831
+Processing Image Name :person_076.png
+Processing Image Name :person_085.png
+testIOU: 0.551046
+Processing Image Name :person_087.png
+testIOU: 0.536719
+Processing Image Name :person_088.png
+testIOU: 0.635838
+Processing Image Name :person_089.png
+testIOU: 0.576897
+Processing Image Name :person_090.png
+testIOU: 0.50998
+Processing Image Name :person_092.png
+testIOU: 0.610839
+Processing Image Name :person_093.png
+testIOU: 0.681651
+testIOU: 0.632964
+Processing Image Name :person_094.png
+testIOU: 0.658095
+Processing Image Name :person_095.png
+testIOU: 0.732676
+Processing Image Name :person_096.png
+testIOU: 0.676078
+testIOU: 0.592223
+Processing Image Name :person_098.png
+testIOU: 0.524127
+testIOU: 0.66157
+Processing Image Name :person_099.png
+testIOU: 0.561016
+Processing Image Name :person_100.png
+testIOU: 0.613395
+testIOU: 0.697881
+Processing Image Name :person_104.png
+testIOU: 0.593205
+testIOU: 0.566892
+Processing Image Name :person_105.png
+testIOU: 0.560955
+testIOU: 0.568445
+Processing Image Name :person_107.png
+testIOU: 0.618244
+testIOU: 0.702657
+Processing Image Name :person_115.png
+Processing Image Name :person_118.png
+Processing Image Name :person_120.png
+testIOU: 0.784245
+testIOU: 0.771702
+Processing Image Name :person_122.png
+testIOU: 0.638655
+Processing Image Name :person_127.png
+testIOU: 0.668055
+testIOU: 0.601953
+Processing Image Name :person_132.png
+testIOU: 0.523689
+testIOU: 0.606555
+testIOU: 0.545947
+testIOU: 0.570498
+testIOU: 0.620843
+testIOU: 0.786928
+Processing Image Name :person_134.png
+testIOU: 0.665874
+testIOU: 0.643079
+testIOU: 0.595357
+testIOU: 0.542328
+Processing Image Name :person_135.png
+testIOU: 0.520661
+testIOU: 0.63894
+Processing Image Name :person_136.png
+Processing Image Name :person_137.png
+testIOU: 0.697039
+testIOU: 0.596642
+testIOU: 0.552399
+Processing Image Name :person_138.png
+testIOU: 0.593588
+testIOU: 0.614894
+Processing Image Name :person_159.png
+testIOU: 0.712437
+testIOU: 0.605691
+testIOU: 0.768981
+testIOU: 0.567411
+Processing Image Name :person_161.png
+testIOU: 0.601414
+Processing Image Name :person_164.png
+testIOU: 0.644641
+Processing Image Name :person_186.png
+testIOU: 0.775844
+testIOU: 0.690583
+Processing Image Name :person_188.png
+testIOU: 0.663043
+testIOU: 0.767223
+testIOU: 0.726877
+testIOU: 0.593432
+testIOU: 0.648005
+Processing Image Name :person_189.png
+testIOU: 0.713007
+testIOU: 0.524602
+Processing Image Name :person_190.png
+testIOU: 0.730257
+testIOU: 0.556688
+testIOU: 0.561627
+testIOU: 0.73411
+Processing Image Name :person_191.png
+testIOU: 0.621494
+testIOU: 0.719265
+testIOU: 0.524756
+testIOU: 0.510841
+testIOU: 0.714194
+Processing Image Name :person_193.png
+testIOU: 0.637952
+testIOU: 0.666016
+testIOU: 0.71374
+testIOU: 0.840055
+Processing Image Name :person_194.png
+testIOU: 0.687179
+Processing Image Name :person_198.png
+testIOU: 0.674603
+Processing Image Name :person_200.png
+testIOU: 0.569654
+testIOU: 0.570325
+testIOU: 0.577523
+testIOU: 0.626975
+testIOU: 0.601399
+testIOU: 0.601377
+testIOU: 0.535564
+testIOU: 0.519028
+testIOU: 0.751178
+Processing Image Name :person_204.png
+testIOU: 0.682233
+testIOU: 0.56
+testIOU: 0.677419
+testIOU: 0.689538
+testIOU: 0.62541
+Processing Image Name :person_206.png
+testIOU: 0.572105
+Processing Image Name :person_207.png
+testIOU: 0.505029
+testIOU: 0.544886
+testIOU: 0.819401
+Processing Image Name :person_210.png
+Processing Image Name :person_212.png
+testIOU: 0.619806
+Processing Image Name :person_216.png
+testIOU: 0.583188
+Processing Image Name :person_217.png
+testIOU: 0.621322
+testIOU: 0.582353
+testIOU: 0.547826
+testIOU: 0.642036
+Processing Image Name :person_218.png
+testIOU: 0.641252
+testIOU: 0.595902
+Processing Image Name :person_222.png
+testIOU: 0.662999
+testIOU: 0.54145
+testIOU: 0.514886
+Processing Image Name :person_230.png
+testIOU: 0.735887
+testIOU: 0.693203
+testIOU: 0.759962
+Processing Image Name :person_236.png
+testIOU: 0.615074
+testIOU: 0.554573
+testIOU: 0.712773
+testIOU: 0.682717
+testIOU: 0.583195
+Processing Image Name :person_246.png
+Processing Image Name :person_247.png
+testIOU: 0.643337
+Processing Image Name :person_248.png
+testIOU: 0.681739
+testIOU: 0.668213
+Processing Image Name :person_249.png
+testIOU: 0.535217
+testIOU: 0.563903
+Processing Image Name :person_250.png
+testIOU: 0.541853
+testIOU: 0.504977
+testIOU: 0.57772
+Processing Image Name :person_251.png
+testIOU: 0.573265
+testIOU: 0.661624
+testIOU: 0.706417
+Processing Image Name :person_255.png
+testIOU: 0.550285
+testIOU: 0.519589
+Processing Image Name :person_263.png
+testIOU: 0.677551
+testIOU: 0.616214
+testIOU: 0.607553
+testIOU: 0.551275
+Processing Image Name :person_265.png
+testIOU: 0.604568
+Processing Image Name :person_272.png
+Processing Image Name :person_280.png
+testIOU: 0.830861
+testIOU: 0.624483
+testIOU: 0.694533
+Processing Image Name :person_282.png
+testIOU: 0.616489
+testIOU: 0.689201
+Processing Image Name :person_290.png
+testIOU: 0.795536
+Processing Image Name :person_293.png
+testIOU: 0.634743
+testIOU: 0.720591
+testIOU: 0.623067
+Processing Image Name :person_303.png
+testIOU: 0.671498
+testIOU: 0.633176
+testIOU: 0.596273
+Processing Image Name :person_306.png
+testIOU: 0.570474
+testIOU: 0.637678
+Processing Image Name :person_314.png
+testIOU: 0.58413
+Processing Image Name :person_315.png
+testIOU: 0.676471
+testIOU: 0.672167
+Processing Image Name :person_316.png
+testIOU: 0.516746
+Processing Image Name :person_317.png
+testIOU: 0.823253
+testIOU: 0.666298
+Processing Image Name :person_318.png
+testIOU: 0.651419
+Processing Image Name :person_323.png
+testIOU: 0.719497
+testIOU: 0.855484
+Processing Image Name :person_325.png
+testIOU: 0.606268
+Processing Image Name :person_335.png
+testIOU: 0.758403
+testIOU: 0.709185
+Processing Image Name :person_336.png
+testIOU: 0.682331
+testIOU: 0.552882
+Processing Image Name :person_337.png
+testIOU: 0.598172
+Processing Image Name :person_347.png
+testIOU: 0.742833
+Processing Image Name :person_350.png
+Processing Image Name :person_and_bike_004.png
+Processing Image Name :person_and_bike_006.png
+testIOU: 0.77551
+Processing Image Name :person_and_bike_012.png
+testIOU: 0.526012
+testIOU: 0.71055
+testIOU: 0.543863
+Processing Image Name :person_and_bike_014.png
+Processing Image Name :person_and_bike_027.png
+testIOU: 0.617772
+testIOU: 0.71112
+Processing Image Name :person_and_bike_028.png
+testIOU: 0.669463
+testIOU: 0.727742
+Processing Image Name :person_and_bike_029.png
+testIOU: 0.576256
+Processing Image Name :person_and_bike_035.png
+testIOU: 0.571399
+testIOU: 0.544579
+Processing Image Name :person_and_bike_038.png
+testIOU: 0.690154
+testIOU: 0.655361
+Processing Image Name :person_and_bike_042.png
+Processing Image Name :person_and_bike_043.png
+testIOU: 0.572093
+Processing Image Name :person_and_bike_044.png
+testIOU: 0.659379
+Processing Image Name :person_and_bike_045.png
+testIOU: 0.7962
+Processing Image Name :person_and_bike_046.png
+Processing Image Name :person_and_bike_047.png
+testIOU: 0.525299
+Processing Image Name :person_and_bike_048.png
+Processing Image Name :person_and_bike_049.png
+testIOU: 0.662012
+Processing Image Name :person_and_bike_050.png
+Processing Image Name :person_and_bike_051.png
+Processing Image Name :person_and_bike_052.png
+Processing Image Name :person_and_bike_053.png
+testIOU: 0.529426
+Processing Image Name :person_and_bike_054.png
+Processing Image Name :person_and_bike_055.png
+testIOU: 0.633557
+Processing Image Name :person_and_bike_056.png
+Processing Image Name :person_and_bike_057.png
+testIOU: 0.619931
+Processing Image Name :person_and_bike_058.png
+Processing Image Name :person_and_bike_059.png
+testIOU: 0.526316
+Processing Image Name :person_and_bike_060.png
+testIOU: 0.728648
+Processing Image Name :person_and_bike_061.png
+Processing Image Name :person_and_bike_062.png
+testIOU: 0.642979
+Processing Image Name :person_and_bike_063.png
+Processing Image Name :person_and_bike_064.png
+Processing Image Name :person_and_bike_065.png
+testIOU: 0.612987
+Processing Image Name :person_and_bike_066.png
+testIOU: 0.578755
+Processing Image Name :person_and_bike_067.png
+Processing Image Name :person_and_bike_069.png
+Processing Image Name :person_and_bike_070.png
+Processing Image Name :person_and_bike_071.png
+Processing Image Name :person_and_bike_072.png
+testIOU: 0.597826
+Processing Image Name :person_and_bike_073.png
+Processing Image Name :person_and_bike_076.png
+testIOU: 0.502213
+Processing Image Name :person_and_bike_077.png
+Processing Image Name :person_and_bike_079.png
+Processing Image Name :person_and_bike_080.png
+Processing Image Name :person_and_bike_081.png
+Processing Image Name :person_and_bike_082.png
+testIOU: 0.660997
+Processing Image Name :person_and_bike_083.png
+Processing Image Name :person_and_bike_084.png
+Processing Image Name :person_and_bike_085.png
+Processing Image Name :person_and_bike_086.png
+Processing Image Name :person_and_bike_087.png
+Processing Image Name :person_and_bike_088.png
+Processing Image Name :person_and_bike_089.png
+testIOU: 0.791289
+Processing Image Name :person_and_bike_090.png
+Processing Image Name :person_and_bike_091.png
+Processing Image Name :person_and_bike_092.png
+Processing Image Name :person_and_bike_093.png
+Processing Image Name :person_and_bike_094.png
+Processing Image Name :person_and_bike_095.png
+Processing Image Name :person_and_bike_096.png
+Processing Image Name :person_and_bike_097.png
+Processing Image Name :person_and_bike_098.png
+Processing Image Name :person_and_bike_099.png
+Processing Image Name :person_and_bike_100.png
+Processing Image Name :person_and_bike_101.png
+Processing Image Name :person_and_bike_102.png
+testIOU: 0.622582
+Processing Image Name :person_and_bike_103.png
+Processing Image Name :person_and_bike_104.png
+Processing Image Name :person_and_bike_105.png
+Processing Image Name :person_and_bike_106.png
+Processing Image Name :person_and_bike_107.png
+Processing Image Name :person_and_bike_108.png
+Processing Image Name :person_and_bike_109.png
+Processing Image Name :person_and_bike_110.png
+testIOU: 0.68459
+Processing Image Name :person_and_bike_111.png
+testIOU: 0.574308
+Processing Image Name :person_and_bike_112.png
+Processing Image Name :person_and_bike_113.png
+Processing Image Name :person_and_bike_114.png
+Processing Image Name :person_and_bike_126.png
+testIOU: 0.686045
+testIOU: 0.58468
+testIOU: 0.754464
+Processing Image Name :person_and_bike_133.png
+testIOU: 0.704225
+testIOU: 0.598485
+Processing Image Name :person_and_bike_136.png
+testIOU: 0.672579
+testIOU: 0.614574
+testIOU: 0.663021
+testIOU: 0.582142
+Processing Image Name :person_and_bike_140.png
+testIOU: 0.51357
+Processing Image Name :person_and_bike_141.png
+Processing Image Name :person_and_bike_149.png
+testIOU: 0.660179
+Processing Image Name :person_and_bike_153.png
+Processing Image Name :person_and_bike_159.png
+Processing Image Name :person_and_bike_160.png
+Processing Image Name :person_and_bike_161.png
+Processing Image Name :person_and_bike_162.png
+Processing Image Name :person_and_bike_163.png
+testIOU: 0.729573
+Processing Image Name :person_and_bike_164.png
+Processing Image Name :person_and_bike_165.png
+Processing Image Name :person_and_bike_177.png
+Processing Image Name :person_and_bike_181.png
+testIOU: 0.783895
+testIOU: 0.663377
+Processing Image Name :person_and_bike_188.png
+testIOU: 0.773715
+testIOU: 0.55963
+Processing Image Name :person_and_bike_189.png
+Processing Image Name :person_and_bike_190.png
+testIOU: 0.806591
+testIOU: 0.810307
